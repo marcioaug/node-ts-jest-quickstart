@@ -1,3 +1,3 @@
-# node-ts-quickstart
+# node-ts-jest-quickstart
 
-[![Build Status](https://github.com/marcioaug/node-ts-quickstart/workflows/Build/badge.svg)](https://github.com/marcioaug/node-ts-quickstart/actions)
+[![Build Status](https://github.com/marcioaug/node-ts-jest-quickstart/workflows/Build/badge.svg)](https://github.com/marcioaug/node-ts-jest-quickstart/actions)
